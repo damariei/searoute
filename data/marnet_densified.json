@@ -77079,23 +77079,6 @@
             "geometry": {
                 "coordinates": [
                     [
-                        55.28616580637981,
-                        -20.924410562647584
-                    ],
-                    [
-                        52.3,
-                        11.6
-                    ]
-                ],
-                "type": "LineString"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "coordinates": [
-                    [
                         72.946782299,
                         4.070336512866167
                     ],
